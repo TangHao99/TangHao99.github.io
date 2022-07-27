@@ -1,13 +1,13 @@
 # 欢迎来到唐浩的主页
 
 ### 个人信息
-[简书](http://jianshu.com)
-[百度](http://baidu.com)
+[LinkedIn](https://www.linkedin.cn/incareer/in/%E6%B5%A9-hao-tang-%E5%94%90-3853811b3) [GitHub](https://github.com/TangHao99)
 
-### 导航
-- 列表内容
-+ 列表内容
-* 列表内容
+### 网站导航
++ [专业知识]()
++ [经典收藏]()
++ [读书笔记]()
++ [日常随笔]()
 
 ## 这是二级标题
 ### 这是三级标题
