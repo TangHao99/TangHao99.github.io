@@ -1,5 +1,4 @@
-# 欢迎来到唐浩的主页
-
+     
 ### 个人信息
 [LinkedIn](https://www.linkedin.cn/incareer/in/%E6%B5%A9-hao-tang-%E5%94%90-3853811b3) [GitHub](https://github.com/TangHao99)
 
