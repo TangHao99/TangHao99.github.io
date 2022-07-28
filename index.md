@@ -8,22 +8,10 @@
 ---
 
 ### 网站导航
-+ [专业知识](/1_ProfessionalKnowledge/index.md)
++ [专业能力](/1_ProfessionalAbility/index.md)
 + [经典收藏](/2_ClassicalCollection/index.md)
 + [学习笔记](/3_LearningNotes/index.md)
 + [日常随笔](/4_DailyRecord/index.md)
++ [信息汇总](/5_InformationSummary/index.md)
 
-### TODO List
-
-专业知识
-* 视频编解码 博客 整理
-
-经典收集
-* 帖子*5 2012任正非
-
-阅读笔记
-* 整理TOP20书籍
-* 修改已有五本书 删减 精华
-
-日常随笔
 
