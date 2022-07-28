@@ -5,6 +5,6 @@ Updated: 2022-7-28
 + [高效工作学习软件](/TechnicalKnowledge/1_EfficientTools.md)
 
 ### 知识总结
-+ [视频编解码](/WorkingSkills/1_VideoCoding.md)
++ [浅谈视频编解码](/WorkingSkills/1_VideoCoding.md)
 
 
