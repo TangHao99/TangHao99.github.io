@@ -1,31 +1,67 @@
 # 经典收藏
 Updated: 2022-7-28
+- [经典收藏](#经典收藏)
+    - [榜样门户](#榜样门户)
+    - [经典帖子](#经典帖子)
+      - [公众号《上梅林》](#公众号上梅林)
+      - [IT领域](#it领域)
+      - [文学 && 哲学](#文学--哲学)
+      - [鸡汤](#鸡汤)
+    - [自制歌单](#自制歌单)
+    - [优质视频](#优质视频)
+      - [YouTube](#youtube)
+          - [古典音乐合集](#古典音乐合集)
+          - [个人成长](#个人成长)
+          - [Live && MV](#live--mv)
+          - [访谈](#访谈)
+      - [Bilibili](#bilibili)
+          - [心理健康](#心理健康)
+          - [个人成长](#个人成长-1)
+          - [社科](#社科)
+          - [摄影](#摄影)
+          - [音乐](#音乐)
+          - [体育](#体育)
+          - [美食](#美食)
+          - [其它](#其它)
+    - [经典图片](#经典图片)
 
-[toc]
+---
 
-### 收藏帖子
-###### 公众号《上梅林》
+### 榜样门户
++ [Road To Coding](https://r2coding.com/#/README)
++ [代码随想录](https://programmercarl.com/)
++ [CITS4012 Natural Language Processing](https://weiliu2k.github.io/CITS4012/index.html)
++ [awesome-cs-books: 超过 200 本经典的计算机书籍分享](https://github.com/imarvinle/awesome-cs-books)
++ [2021年最新整理，5000道校招常用面试题](https://github.com/0voice/campus_recruitmen_questions)
+
+---
+
+### 经典帖子
+#### 公众号《上梅林》
 + [为上梅林作序](https://mp.weixin.qq.com/s/x9Wia596iC-l7A__pILq1A)
 + [“当我谈跑步时”](https://mp.weixin.qq.com/s/a4TOw78NyiNpXWMXxq1CBQ)
 + [TALK/流浪者的归途](https://mp.weixin.qq.com/s/YkXnmVYRgYNfc0Dbg06Nqw)
 + [网民的困境](https://mp.weixin.qq.com/s/RtgDyZUGMTFlFXqGyl4FTw)
 + [禅院生活小结](https://mp.weixin.qq.com/s/B2YUDuT7y7C6-99dbQdq5A)
 
-###### IT领域
+#### IT领域
 + [任正非在2012实验室的讲话](https://www.elecfans.com/news/changshang/20120910288042.html)
++ [名篇重读：华为的冬天](https://zhuanlan.zhihu.com/p/77196608)
 + [美团12年，历久弥新，一路有你](https://mp.weixin.qq.com/s/nLuAuamw0_-wZcgNglNEEg)
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
 
-###### 文学 && 哲学
+#### 文学 && 哲学
++ [敬胜怠，义胜欲；知其雄，守其雌](https://zhuanlan.zhihu.com/p/54966675)
 
-###### 鸡汤
+#### 鸡汤
+
+---
 
 ### 自制歌单
 + [车载歌单（轻快、惬意）](https://y.qq.com/n/ryqq/playlist/8560800135)
+
+
+
+---
 
 ### 优质视频
 
@@ -54,7 +90,7 @@ Updated: 2022-7-28
 + [黃玠-下雨的晚上MV](https://www.youtube.com/watch?v=aR8BSYCvbvo&list=LL&index=33)
 
 ###### 访谈
-+ [【圆桌派 第四季】 独居：一个人住 好吗？ | 窦文涛/梁文道/马家辉/周轶君](https://www.youtube.com/watch?v=b7muttmgthA&list=LL&index=18)
++ [圆桌派 独居：一个人住 好吗？](https://www.youtube.com/watch?v=b7muttmgthA&list=LL&index=18)
 
 #### Bilibili
 ###### 心理健康
@@ -81,8 +117,8 @@ Updated: 2022-7-28
 ###### 摄影
 + [【西湖画卷】：创作历时2年，记录你从未见过的西湖色彩和视角！](https://www.bilibili.com/video/BV1u94y1175Z?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [西湖.雪落下的声音](https://www.bilibili.com/video/BV1tP4y1P7oS?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
-+ [【4K HDR】京都·无尽夏 DJI RS 3 PRO | LINKS](https://www.bilibili.com/video/BV1ya411s7w2?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
-+ [如何把女朋友的照片拍出电影感 | shot on Canon EOS R6](https://www.bilibili.com/video/BV1bi4y1R7Bw?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
++ [【4K HDR】京都·无尽夏 DJI RS 3 PRO](https://www.bilibili.com/video/BV1ya411s7w2?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
++ [如何把女朋友的照片拍出电影感 shot on Canon EOS R6](https://www.bilibili.com/video/BV1bi4y1R7Bw?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 
 ###### 音乐
 + [姐姐弹唱《这世界有那么多人》](https://www.bilibili.com/video/BV1N44y117nV?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
@@ -104,7 +140,10 @@ Updated: 2022-7-28
 + [【广告】理智与情感，Jeep](https://www.bilibili.com/video/BV1rx411w7Kk?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [我毕业啦！](https://www.bilibili.com/video/BV1Yb4y1C7RK?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [让子弹飞 普通话](https://www.bilibili.com/bangumi/play/ep199612?theme=movie&spm_id_from=333.999.0.0)
-+ [这可能是B站最粉的程序员卧室 | room tour](https://www.bilibili.com/video/BV1Y3411F7Y5?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
++ [这可能是B站最粉的程序员卧室 room tour](https://www.bilibili.com/video/BV1Y3411F7Y5?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
+
+
+---
 
 ### 经典图片
 + [雪天航班落地_2022Feb_北京](/Images/雪天航班落地_2022Feb_北京.jpg)
