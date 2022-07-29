@@ -1,33 +1,33 @@
 # 经典收藏
-Updated: 2022-7-28
+Updated: 2022-7-30
 - [经典收藏](#经典收藏)
-    - [榜样门户](#榜样门户)
-    - [经典帖子](#经典帖子)
+    - [**榜样门户**](#榜样门户)
+    - [**经典帖子**](#经典帖子)
       - [公众号《上梅林》](#公众号上梅林)
       - [IT领域](#it领域)
       - [文学 && 哲学](#文学--哲学)
       - [鸡汤](#鸡汤)
-    - [自制歌单](#自制歌单)
-    - [优质视频](#优质视频)
+    - [**自制歌单**](#自制歌单)
+    - [**优质视频**](#优质视频)
       - [YouTube](#youtube)
-          - [古典音乐合集](#古典音乐合集)
-          - [个人成长](#个人成长)
+        - [古典音乐合集](#古典音乐合集)
+        - [个人成长](#个人成长)
           - [Live && MV](#live--mv)
-          - [访谈](#访谈)
+        - [访谈](#访谈)
       - [Bilibili](#bilibili)
-          - [心理健康](#心理健康)
-          - [个人成长](#个人成长-1)
-          - [社科](#社科)
-          - [摄影](#摄影)
-          - [音乐](#音乐)
-          - [体育](#体育)
-          - [美食](#美食)
-          - [其它](#其它)
-    - [经典图片](#经典图片)
+        - [心理健康](#心理健康)
+        - [个人成长](#个人成长-1)
+        - [社科](#社科)
+        - [摄影](#摄影)
+        - [音乐](#音乐)
+        - [体育](#体育)
+        - [美食](#美食)
+        - [其它](#其它)
+    - [**经典图片**](#经典图片)
 
 ---
 
-### 榜样门户
+### **榜样门户**
 + [Road To Coding](https://r2coding.com/#/README)
 + [代码随想录](https://programmercarl.com/)
 + [CITS4012 Natural Language Processing](https://weiliu2k.github.io/CITS4012/index.html)
@@ -36,7 +36,7 @@ Updated: 2022-7-28
 
 ---
 
-### 经典帖子
+### **经典帖子**
 #### 公众号《上梅林》
 + [为上梅林作序](https://mp.weixin.qq.com/s/x9Wia596iC-l7A__pILq1A)
 + [“当我谈跑步时”](https://mp.weixin.qq.com/s/a4TOw78NyiNpXWMXxq1CBQ)
@@ -56,14 +56,14 @@ Updated: 2022-7-28
 
 ---
 
-### 自制歌单
+### **自制歌单**
 + [车载歌单（轻快、惬意）](https://y.qq.com/n/ryqq/playlist/8560800135)
 
 ---
 
-### 优质视频
+### **优质视频**
 #### YouTube
-###### 古典音乐合集
+##### 古典音乐合集
 + [愉快的古典音樂合集 - 柴可夫斯基. 佛瑞. 史特勞斯](https://www.youtube.com/watch?v=CuiTzPqzDho&list=LL&index=15)
 + [愉快的古典音樂 - 韋瓦第. 韓德爾. 阿爾比諾尼. 莫札特](https://www.youtube.com/watch?v=534NGxpD1V8&list=LL&index=21&t=9s)
 + [浪漫抒情古典音樂合集 - 舒曼. 孟德爾頌. 巴哈. 蕭邦](https://www.youtube.com/watch?v=cX3Bi1TPXkM&list=LL&index=9&t=2228s)
@@ -74,7 +74,7 @@ Updated: 2022-7-28
 + [巴哈. 貝多芬. 舒曼古典音樂 ❤ 讀書&工作培養氣質音樂](https://www.youtube.com/watch?v=roDf5S2bYkY&list=LL&index=8&t=1647s)
 + [古典音樂 - 蕭邦&李斯特&貝多芬&莫札特&浪漫鋼琴美麗樂章～ 讀書＆工作最佳音樂](https://www.youtube.com/watch?v=97-lNM37bko&list=LL&index=2&t=1591s)
 
-###### 个人成长
+##### 个人成长
 + [2021年很难，但我至少学到了这十件事](https://www.youtube.com/watch?v=763kY8W9FAQ&list=LL&index=19)
 + [这十个思维方式如何改变我的人生（2020）](https://www.youtube.com/watch?v=L0_Fh296Qx0&list=LL&index=19)
 + [罗翔老师那些醍醐灌顶的金句](https://www.youtube.com/watch?v=OWGYTZDswAQ&list=LL&index=41)
@@ -85,18 +85,18 @@ Updated: 2022-7-28
 + [毛不易 Mao Buyi《平凡的一天 Ordinary Day》](https://www.youtube.com/watch?v=BiiwclhI5Y8&list=LL&index=39)
 + [黃玠-下雨的晚上MV](https://www.youtube.com/watch?v=aR8BSYCvbvo&list=LL&index=33)
 
-###### 访谈
+##### 访谈
 + [圆桌派 独居：一个人住 好吗？](https://www.youtube.com/watch?v=b7muttmgthA&list=LL&index=18)
 
 #### Bilibili
-###### 心理健康
+##### 心理健康
 + [最痛快的活法，不是躺平，而是这样走出去](https://www.bilibili.com/video/BV13V411x7x5?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [一个人要真正成熟，得先学会让父母“难受”](https://www.bilibili.com/video/BV1jL4y1E7Z4?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [为什么说「完美」是人性最深的压抑？](https://www.bilibili.com/video/BV16r4y1U7tZ?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [【4K修复】短尾矮袋鼠吃树叶·高清原声版](https://www.bilibili.com/video/BV1nT4y1r7Sb?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [当下不是永恒，让时间成为祝福【武志红】](https://www.bilibili.com/video/BV16X4y1u7q1?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 
-###### 个人成长
+##### 个人成长
 + [复盘过去36年人生：最后悔这4件事，你别再踩这些坑了](https://www.bilibili.com/video/BV1mS4y1T7V3?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [痛--俞敏洪--一堆散落的砖头](https://www.bilibili.com/video/BV1Lt411C7xB?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [34岁中年up主的几个人生建议，比如别信人脉](https://www.bilibili.com/video/BV1iM4y1F79R?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
@@ -105,34 +105,34 @@ Updated: 2022-7-28
 + [如何保持终身学习并从中受益？](https://www.bilibili.com/video/BV1sW4y1m7Hn?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [一位让罗老师感动的学生，值得我们学习](https://www.bilibili.com/video/BV1J7411V7gn?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 
-###### 社科
+##### 社科
 + [5G，华为，土耳其——我花了两个月，搞懂了5G背后的秘密](https://www.bilibili.com/video/BV1fq4y1g7hq?spm_id_from=444.42.list.card_archive.click&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [俞敏洪北大光华学院劲爆演讲完整版](https://www.bilibili.com/video/BV18E411a7Xf?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [我在湖大红楼前站了2个小时，和路过的陌生人一起拍了一张“特别的毕业照”](https://www.bilibili.com/video/BV1Q3411M7Pu?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 
-###### 摄影
+##### 摄影
 + [【西湖画卷】：创作历时2年，记录你从未见过的西湖色彩和视角！](https://www.bilibili.com/video/BV1u94y1175Z?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [西湖.雪落下的声音](https://www.bilibili.com/video/BV1tP4y1P7oS?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [【4K HDR】京都·无尽夏 DJI RS 3 PRO](https://www.bilibili.com/video/BV1ya411s7w2?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [如何把女朋友的照片拍出电影感 shot on Canon EOS R6](https://www.bilibili.com/video/BV1bi4y1R7Bw?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 
-###### 音乐
+##### 音乐
 + [姐姐弹唱《这世界有那么多人》](https://www.bilibili.com/video/BV1N44y117nV?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [【Krystian Zimerman】肖邦g小调第一叙事曲（1987）](https://www.bilibili.com/video/BV1Jx411N7og?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [cover｜路过人间-郁可唯](https://www.bilibili.com/video/BV1Zy4y1V74v?spm_id_from=333.999.0.0)
 + [全球播放破亿！华为感动世界的名曲《Dream It Possible》](https://www.bilibili.com/video/BV16b411T7JV?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [MATLAB演奏的《水星记》](https://www.bilibili.com/video/BV1J3411P7DX?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 
-###### 体育
+##### 体育
 + [真正的胜利是不断的赢球，瓜迪奥拉2021/2022赛季总结](https://www.bilibili.com/video/BV1JF411c7wx?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [【收藏向】贺炜老师足球解说金句大合集！](https://www.bilibili.com/video/BV14h411C7aL?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [震撼逆转！2018世界杯让日本沉默的14秒钟！](https://www.bilibili.com/video/BV1CB4y1X7D6?spm_id_from=333.999.0.0)
 
-###### 美食
+##### 美食
 + [千金做一颗白菜，挑战顶级国宴巅峰之作。](https://www.bilibili.com/video/BV1dX4y1A7cY?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [重金求来“猪袜子米线”秘方，这不把人香迷糊了？](https://www.bilibili.com/video/BV1Xa411K7nf?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 
-###### 其它
+##### 其它
 + [【广告】理智与情感，Jeep](https://www.bilibili.com/video/BV1rx411w7Kk?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [我毕业啦！](https://www.bilibili.com/video/BV1Yb4y1C7RK?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [让子弹飞 普通话](https://www.bilibili.com/bangumi/play/ep199612?theme=movie&spm_id_from=333.999.0.0)
@@ -140,7 +140,7 @@ Updated: 2022-7-28
 
 ---
 
-### 经典图片
+### **经典图片**
 + [雪天航班落地_2022Feb_北京](/Images/雪天航班落地_2022Feb_北京.jpg)
 
 
