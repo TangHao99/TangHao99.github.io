@@ -7,6 +7,7 @@ Updated: 2022-7-30
       - [IT领域](#it领域)
       - [文学 && 哲学](#文学--哲学)
       - [鸡汤](#鸡汤)
+      - [其它](#其它)
     - [**自制歌单**](#自制歌单)
     - [**优质视频**](#优质视频)
       - [YouTube](#youtube)
@@ -22,7 +23,7 @@ Updated: 2022-7-30
         - [音乐](#音乐)
         - [体育](#体育)
         - [美食](#美食)
-        - [其它](#其它)
+        - [其它](#其它-1)
     - [**经典图片**](#经典图片)
 
 ---
@@ -54,6 +55,9 @@ Updated: 2022-7-30
 
 #### 鸡汤
 + 
+
+#### 其它
++ [明亮的日子，昆华园的每一天都是](https://mp.weixin.qq.com/s/pldxnWfYee_yBmh7DKJzFA)
 
 ---
 
@@ -87,7 +91,7 @@ Updated: 2022-7-30
 + [黃玠-下雨的晚上MV](https://www.youtube.com/watch?v=aR8BSYCvbvo&list=LL&index=33)
 
 ##### 访谈
-+ [圆桌派 独居：一个人住 好吗？](https://www.youtube.com/watch?v=b7muttmgthA&list=LL&index=18)
++ [【圆桌派】 独居：一个人住 好吗？](https://www.youtube.com/watch?v=b7muttmgthA&list=LL&index=18)
 
 #### Bilibili
 ##### 心理健康
@@ -142,6 +146,8 @@ Updated: 2022-7-30
 ---
 
 ### **经典图片**
-+ [雪天航班落地_2022Feb_北京](/Images/雪天航班落地_2022Feb_北京.jpg)
++ [2022 雪天 航班落地北京](/Images/雪天航班落地_2022Feb_北京.jpg)
++ [2019 曼城VS热刺 欧冠1/4决赛 次回合 93分钟 曼城绝杀进球因越位被判无效](/Images/曼城热刺欧冠_2019Apr_英国.jpg)
++ [2022 美团Git 元宵节祝福](/Images/美团元宵节祝福_2022Feb_北京.jpg)
 
 
