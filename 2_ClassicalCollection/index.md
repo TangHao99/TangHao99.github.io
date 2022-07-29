@@ -4,11 +4,28 @@ Updated: 2022-7-28
 [toc]
 
 ### 收藏帖子
-+ [任正非在2012实验室的讲话](https://www.elecfans.com/news/changshang/20120910288042.html)
+###### 公众号《上梅林》
 + [为上梅林作序](https://mp.weixin.qq.com/s/x9Wia596iC-l7A__pILq1A)
++ [“当我谈跑步时”](https://mp.weixin.qq.com/s/a4TOw78NyiNpXWMXxq1CBQ)
++ [TALK/流浪者的归途](https://mp.weixin.qq.com/s/YkXnmVYRgYNfc0Dbg06Nqw)
++ [网民的困境](https://mp.weixin.qq.com/s/RtgDyZUGMTFlFXqGyl4FTw)
++ [禅院生活小结](https://mp.weixin.qq.com/s/B2YUDuT7y7C6-99dbQdq5A)
+
+###### IT领域
++ [任正非在2012实验室的讲话](https://www.elecfans.com/news/changshang/20120910288042.html)
++ [美团12年，历久弥新，一路有你](https://mp.weixin.qq.com/s/nLuAuamw0_-wZcgNglNEEg)
++ []()
++ []()
++ []()
++ []()
++ []()
+
+###### 文学 && 哲学
+
+###### 鸡汤
 
 ### 自制歌单
-+ [车载歌单（轻快、惬意）](https://c.y.qq.com/base/fcgi-bin/u?__=4eCB9TIZfkiu)
++ [车载歌单（轻快、惬意）](https://y.qq.com/n/ryqq/playlist/8560800135)
 
 ### 优质视频
 
@@ -30,7 +47,7 @@ Updated: 2022-7-28
 + [这十个思维方式如何改变我的人生（2020）](https://www.youtube.com/watch?v=L0_Fh296Qx0&list=LL&index=19)
 + [罗翔老师那些醍醐灌顶的金句](https://www.youtube.com/watch?v=OWGYTZDswAQ&list=LL&index=41)
 
-###### Live || MV
+###### Live && MV
 + [房东的猫《云烟成雨》不要音乐现场版](https://www.youtube.com/watch?v=iNT4Pvm2S60&list=LL&index=38)
 + [杨宗纬《长镜头》 -《我是歌手》2015巅峰会单曲纯享](https://www.youtube.com/watch?v=nkWebzFPBgU&list=LL&index=47)
 + [毛不易 Mao Buyi《平凡的一天 Ordinary Day》](https://www.youtube.com/watch?v=BiiwclhI5Y8&list=LL&index=39)
@@ -44,7 +61,7 @@ Updated: 2022-7-28
 + [最痛快的活法，不是躺平，而是这样走出去](https://www.bilibili.com/video/BV13V411x7x5?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [一个人要真正成熟，得先学会让父母“难受”](https://www.bilibili.com/video/BV1jL4y1E7Z4?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [为什么说「完美」是人性最深的压抑？](https://www.bilibili.com/video/BV16r4y1U7tZ?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
-+ [4K修复】短尾矮袋鼠吃树叶·高清原声版](https://www.bilibili.com/video/BV1nT4y1r7Sb?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
++ [【4K修复】短尾矮袋鼠吃树叶·高清原声版](https://www.bilibili.com/video/BV1nT4y1r7Sb?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 + [当下不是永恒，让时间成为祝福【武志红】](https://www.bilibili.com/video/BV16X4y1u7q1?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e)
 
 ###### 个人成长
