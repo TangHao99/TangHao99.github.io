@@ -12,7 +12,7 @@ Updated: 2022-7-30
       - [YouTube](#youtube)
         - [古典音乐合集](#古典音乐合集)
         - [个人成长](#个人成长)
-          - [Live && MV](#live--mv)
+        - [Live && MV](#live--mv)
         - [访谈](#访谈)
       - [Bilibili](#bilibili)
         - [心理健康](#心理健康)
@@ -53,6 +53,7 @@ Updated: 2022-7-30
 + [敬胜怠，义胜欲；知其雄，守其雌](https://zhuanlan.zhihu.com/p/54966675)
 
 #### 鸡汤
++ 
 
 ---
 
@@ -79,7 +80,7 @@ Updated: 2022-7-30
 + [这十个思维方式如何改变我的人生（2020）](https://www.youtube.com/watch?v=L0_Fh296Qx0&list=LL&index=19)
 + [罗翔老师那些醍醐灌顶的金句](https://www.youtube.com/watch?v=OWGYTZDswAQ&list=LL&index=41)
 
-###### Live && MV
+##### Live && MV
 + [房东的猫《云烟成雨》不要音乐现场版](https://www.youtube.com/watch?v=iNT4Pvm2S60&list=LL&index=38)
 + [杨宗纬《长镜头》 -《我是歌手》2015巅峰会单曲纯享](https://www.youtube.com/watch?v=nkWebzFPBgU&list=LL&index=47)
 + [毛不易 Mao Buyi《平凡的一天 Ordinary Day》](https://www.youtube.com/watch?v=BiiwclhI5Y8&list=LL&index=39)
