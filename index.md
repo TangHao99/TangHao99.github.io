@@ -20,7 +20,8 @@
 
 + [学习笔记](/3_LearningNotes/index.md)
     + [TOP书单](/3_LearningNotes/index.md#top书单)
-    + [读书摘记](/3_LearningNotes/index.md#读书摘记)
+    <!-- + [读书摘记](/3_LearningNotes/index.md#读书摘记) -->
+    + [读书摘记](https://tanghao99.notion.site/7ecf8d81773248b6814bbea6c8dacf47)
 
 + [日常随笔](/4_DailyRecord/index.md)
     + [方法论类](/4_DailyRecord/index.md#方法论类)
