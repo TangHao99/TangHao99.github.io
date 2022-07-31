@@ -54,3 +54,5 @@ Updated: 2022-7-30
 + [高能量姿势](./Readings/高能量姿势.html)
 + [朱光潜谈美](./Readings/朱光潜谈美.html)
 
++ [下一个倒下的会不会是华为](https://tanghao99.notion.site/e7a53c75e25b440992728ba04e8ac2f0)
+
