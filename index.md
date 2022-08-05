@@ -19,7 +19,7 @@
     + [经典图片](/2_ClassicalCollection/index.md#经典图片)
 
 + [学习笔记](/3_LearningNotes/index.md)
-    + [TOP书单](/3_LearningNotes/index.md#top书单)
+    + [Top书单](/3_LearningNotes/index.md#top书单)
     <!-- + [读书摘记](/3_LearningNotes/index.md#读书摘记) -->
     + [读书摘记](https://tanghao99.notion.site/7ecf8d81773248b6814bbea6c8dacf47)
 

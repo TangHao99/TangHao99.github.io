@@ -32,6 +32,8 @@ Updated: 2022-7-30
 ---
 
 ### **榜样门户**
++ [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun)
++ [Zeyi Wen](https://zeyiwen.github.io/)
 + [Road To Coding](https://r2coding.com/#/README)
 + [代码随想录](https://programmercarl.com/)
 + [CITS4012 Natural Language Processing](https://weiliu2k.github.io/CITS4012/index.html)
