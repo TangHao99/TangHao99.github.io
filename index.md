@@ -8,9 +8,9 @@
 ---
 
 ### 网站导航
-+ [专业能力](/1_ProfessionalAbility/Index.md)
-    + [工作技能](/1_ProfessionalAbility/Index.md#工作技能)
-    + [知识总结](/1_ProfessionalAbility/Index.md#知识总结)
++ [系统总结](https://tanghao99.notion.site/722389a49d7c480faae9a95427a65777)
+
++ [读书摘记](https://tanghao99.notion.site/7ecf8d81773248b6814bbea6c8dacf47)
 
 + [经典收藏](/2_ClassicalCollection/index.md)
     + [收藏帖子](/2_ClassicalCollection/index.md#收藏帖子)
@@ -18,15 +18,5 @@
     + [优质视频](/2_ClassicalCollection/index.md#优质视频)
     + [经典图片](/2_ClassicalCollection/index.md#经典图片)
 
-+ [学习笔记](/3_LearningNotes/index.md)
-    + [Top书单](/3_LearningNotes/index.md#top书单)
-    <!-- + [读书摘记](/3_LearningNotes/index.md#读书摘记) -->
-    + [读书摘记](https://tanghao99.notion.site/7ecf8d81773248b6814bbea6c8dacf47)
 
-+ [日常随笔](/4_DailyRecord/index.md)
-    + [方法论类](/4_DailyRecord/index.md#方法论类)
-    + [人生感悟](/4_DailyRecord/index.md#人生感悟)
-
-+ [信息汇总](/5_InformationSummary/index.md)
-    + [待完成](/5_InformationSummary/index.md#待完成)
     
