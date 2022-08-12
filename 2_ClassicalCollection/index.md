@@ -76,9 +76,9 @@ Updated: 2022-7-30
 ##### 古典音乐合集
 + [愉快的古典音樂合集 - 柴可夫斯基. 佛瑞. 史特勞斯](https://www.youtube.com/watch?v=CuiTzPqzDho&list=LL&index=15)
 + [愉快的古典音樂 - 韋瓦第. 韓德爾. 阿爾比諾尼. 莫札特](https://www.youtube.com/watch?v=534NGxpD1V8&list=LL&index=21&t=9s)
++ [輕鬆浪漫古典華爾滋合集 - Romantic Classical Waltz](https://www.youtube.com/watch?v=90brkM2iKK0&list=LL&index=4&t=1819s)
 + [浪漫抒情古典音樂合集 - 舒曼. 孟德爾頌. 巴哈. 蕭邦](https://www.youtube.com/watch?v=cX3Bi1TPXkM&list=LL&index=9&t=2228s)
 + [最愛古典音樂 /莫札特 x 蕭邦 x 貝多芬 x 韋瓦第 x 巴哈](https://www.youtube.com/watch?v=AM7ks920nto&list=LL&index=5&t=2609s)
-+ [輕鬆浪漫古典華爾滋合集 - Romantic Classical Waltz](https://www.youtube.com/watch?v=90brkM2iKK0&list=LL&index=4&t=1819s)
 + [100分鐘耳熟能詳的古典音樂 /貝多芬x 柴可夫斯基x蕭邦](https://www.youtube.com/watch?v=OsOHJnI2xeg&list=LL&index=4&t=29s)
 + [The Beautiful Blue Danube](https://www.youtube.com/watch?v=JmxrMBuCsoI&list=LL&index=16&t=397s)
 + [巴哈. 貝多芬. 舒曼古典音樂 ❤ 讀書&工作培養氣質音樂](https://www.youtube.com/watch?v=roDf5S2bYkY&list=LL&index=8&t=1647s)
