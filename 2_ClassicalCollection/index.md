@@ -65,7 +65,7 @@ Updated: 2022-7-30
 
 #### 文学 && 哲学
 
-- [敬胜怠，义胜欲；知其雄，守其雌](https://zhuanlan.zhihu.com/p/54966675)
+- 
 
 #### 鸡汤
 
@@ -118,9 +118,9 @@ Updated: 2022-7-30
 ##### Live && MV
 
 - [房东的猫《云烟成雨》不要音乐现场版](https://www.youtube.com/watch?v=iNT4Pvm2S60&list=LL&index=38)
+- [黃玠-下雨的晚上MV](https://www.youtube.com/watch?v=aR8BSYCvbvo&list=LL&index=33)
 - [杨宗纬《长镜头》 -《我是歌手》2015巅峰会单曲纯享](https://www.youtube.com/watch?v=nkWebzFPBgU&list=LL&index=47)
 - [毛不易 Mao Buyi《平凡的一天 Ordinary Day》](https://www.youtube.com/watch?v=BiiwclhI5Y8&list=LL&index=39)
-- [黃玠-下雨的晚上MV](https://www.youtube.com/watch?v=aR8BSYCvbvo&list=LL&index=33)
 
 ##### 访谈
 
