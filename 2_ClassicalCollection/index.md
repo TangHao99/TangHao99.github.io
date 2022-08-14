@@ -7,6 +7,7 @@ Updated: 2022-7-30
 - [**经典收藏**](#经典收藏)
     - [**目录**](#目录)
     - [**榜样门户**](#榜样门户)
+  - [- 2021年最新5000道校招常用面试题](#--2021年最新5000道校招常用面试题)
     - [**经典帖子**](#经典帖子)
       - [公众号《上梅林》](#公众号上梅林)
       - [IT领域](#it领域)
@@ -36,14 +37,13 @@ Updated: 2022-7-30
 ### **榜样门户**
 
 - [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun)
-
 - [Zeyi Wen](https://zeyiwen.github.io/)
 - [Road To Coding](https://r2coding.com/#/README)
-- [代码随想录](https://programmercarl.com/)
 - [CITS4012 Natural Language Processing](https://weiliu2k.github.io/CITS4012/index.html)
-- [awesome-cs-books: 超过 200 本经典的计算机书籍分享](https://github.com/imarvinle/awesome-cs-books)
-- [2021年最新整理，5000道校招常用面试题](https://github.com/0voice/campus_recruitmen_questions)
-
+- [SHILICON 老石谈芯](https://shilicon.com/)
+- [代码随想录](https://programmercarl.com/)
+- [Awesome-cs-books](https://github.com/imarvinle/awesome-cs-books)
+- [2021年最新5000道校招常用面试题](https://github.com/0voice/campus_recruitmen_questions)
 ---
 
 ### **经典帖子**
@@ -60,9 +60,9 @@ Updated: 2022-7-30
 #### IT领域
 
 - [任正非在2012实验室的讲话](https://www.elecfans.com/news/changshang/20120910288042.html)
-
 - [名篇重读：华为的冬天](https://zhuanlan.zhihu.com/p/77196608)
 - [美团12年，历久弥新，一路有你](https://mp.weixin.qq.com/s/nLuAuamw0_-wZcgNglNEEg)
+- [华为老兵十六载，总结了这15条职场工作感悟【总有一条你用得上】](https://welink.huaweicloud.com/official-account/#/articles/1774129?content_type=1)
 
 #### 文学 && 哲学
 
@@ -91,15 +91,24 @@ Updated: 2022-7-30
 ##### 古典音乐合集
 
 - [愉快的古典音樂合集 - 柴可夫斯基. 佛瑞. 史特勞斯](https://www.youtube.com/watch?v=CuiTzPqzDho&list=LL&index=15)
-
 - [愉快的古典音樂 - 韋瓦第. 韓德爾. 阿爾比諾尼. 莫札特](https://www.youtube.com/watch?v=534NGxpD1V8&list=LL&index=21&t=9s)
 - [輕鬆浪漫古典華爾滋合集 - Romantic Classical Waltz](https://www.youtube.com/watch?v=90brkM2iKK0&list=LL&index=4&t=1819s)
+- [深度聚焦音乐以提高注意力 - 12 小时的环境学习音乐以集中注意力 #229](https://www.youtube.com/watch?v=yTTCx4-LsLQ)
+- [Antonio Vivaldi - The Four Season Violin Concerto no.1-4 韋瓦第 四季小提琴協奏曲 古典音樂 classical music relaxing](https://www.youtube.com/watch?v=BxwK92i93OE)
+- [4K Cozy Coffee Shop | Background Instrumental to Relax, Work and Study](https://www.youtube.com/watch?v=l_pNlSmqsHs)
+- [Deep Focus 音乐以提高注意力 - 12 小时的环境学习音乐以集中注意力 #220](https://www.youtube.com/watch?v=luImsWaNLAY)
+- [[HD無廣告版] 鋼琴&大提琴浪漫古典音樂合集 - Piano & Cello Romantic Classical Music](https://www.youtube.com/watch?v=BQf1y1pkaeQ)
+- [[無廣告版] 讓人心情平靜古典音樂合集 - Calm & Peaceful Classical Music](https://www.youtube.com/watch?v=USOBb1r-7sk)
+- [[無廣告版] 令人放鬆的古典音樂合集 - 蕭邦 . 德布西 . 巴哈 . 貝多芬 - Relax Classical Music -Chopin . Debussy . Bach](https://www.youtube.com/watch?v=M_rNY2G-C8Y&t=29s)
+- [[HD無廣告版] 2小時鋼琴&大提琴浪漫古典音樂合集 - Piano & Cello Romantic Classical Music](https://www.youtube.com/watch?v=ePwrp9WtkWQ)
+- [(一小時版本) 蕭邦 -華爾茲 A小調圆舞曲 B.150 - Chopin Waltz in A minor B.150](https://www.youtube.com/watch?v=QSZCAgykHGw)
 - [浪漫抒情古典音樂合集 - 舒曼. 孟德爾頌. 巴哈. 蕭邦](https://www.youtube.com/watch?v=cX3Bi1TPXkM&list=LL&index=9&t=2228s)
 - [最愛古典音樂 /莫札特 x 蕭邦 x 貝多芬 x 韋瓦第 x 巴哈](https://www.youtube.com/watch?v=AM7ks920nto&list=LL&index=5&t=2609s)
 - [100分鐘耳熟能詳的古典音樂 /貝多芬x 柴可夫斯基x蕭邦](https://www.youtube.com/watch?v=OsOHJnI2xeg&list=LL&index=4&t=29s)
 - [The Beautiful Blue Danube](https://www.youtube.com/watch?v=JmxrMBuCsoI&list=LL&index=16&t=397s)
 - [巴哈. 貝多芬. 舒曼古典音樂 ❤ 讀書&工作培養氣質音樂](https://www.youtube.com/watch?v=roDf5S2bYkY&list=LL&index=8&t=1647s)
 - [古典音樂 - 蕭邦&李斯特&貝多芬&莫札特&浪漫鋼琴美麗樂章～ 讀書＆工作最佳音樂](https://www.youtube.com/watch?v=97-lNM37bko&list=LL&index=2&t=1591s)
+
 
 ##### 个人成长
 
@@ -118,7 +127,9 @@ Updated: 2022-7-30
 
 ##### 访谈
 
-- [【圆桌派】 独居：一个人住 好吗？](https://www.youtube.com/watch?v=b7muttmgthA&list=LL&index=18)
+- [【圆桌派】 独居：一个人住 好吗？窦文涛/梁文道/马家辉/周轶君 ](https://www.youtube.com/watch?v=b7muttmgthA&list=LL&index=18)
+- [【圆桌派 第四季】打工：谁要996？谁被996？ 窦文涛/梁文道/马家辉/周轶君 ](https://www.youtube.com/watch?v=V9ChPW69P88)
+- [【圆桌时光派】EP02 着急:你越来越着急吗？ 窦文涛/陈晓卿/马家辉/蒋方舟 ](https://www.youtube.com/watch?v=XS3w31owv38)
 
 #### Bilibili
 
