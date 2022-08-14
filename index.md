@@ -13,10 +13,10 @@
 + [读书摘记](https://tanghao99.notion.site/7ecf8d81773248b6814bbea6c8dacf47)
 
 + [经典收藏](/2_ClassicalCollection/index.md)
-    <!-- + [收藏帖子](/2_ClassicalCollection/index.md#收藏帖子)
-    + [自制歌单](/2_ClassicalCollection/index.md#自制歌单)
-    + [优质视频](/2_ClassicalCollection/index.md#优质视频)
-    + [经典图片](/2_ClassicalCollection/index.md#经典图片) -->
+<!-- + [收藏帖子](/2_ClassicalCollection/index.md#收藏帖子)
++ [自制歌单](/2_ClassicalCollection/index.md#自制歌单)
++ [优质视频](/2_ClassicalCollection/index.md#优质视频)
++ [经典图片](/2_ClassicalCollection/index.md#经典图片) -->
 
 
-    
+​    
