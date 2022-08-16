@@ -79,7 +79,10 @@ Updated: 2022-7-30
 
 ### **自制歌单**
 
-- [车载歌单（轻快、惬意）](https://y.qq.com/n/ryqq/playlist/8560800135)
+- [车载歌单（一）](https://y.qq.com/n/ryqq/playlist/8523484944)
+- [车载歌单（二）](https://y.qq.com/n/ryqq/playlist/8560800135)
+- [平静歌单（一）](https://y.qq.com/n/ryqq/playlist/8526261487)
+- [Top100（2022.8）](https://y.qq.com/n/ryqq/playlist/8583705023)
 
 ---
 
