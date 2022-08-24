@@ -60,9 +60,8 @@ Updated: 2022-7-30
 #### IT领域
 
 - [任正非在2012实验室的讲话](https://www.elecfans.com/news/changshang/20120910288042.html){:target="_blank"}
-- [名篇重读：华为的冬天](https://zhuanlan.zhihu.com/p/77196608){:target="_blank"}
 - [美团12年，历久弥新，一路有你](https://mp.weixin.qq.com/s/nLuAuamw0_-wZcgNglNEEg){:target="_blank"}
-- [华为老兵十六载，总结了这15条职场工作感悟【总有一条你用得上】](https://welink.huaweicloud.com/official-account/#/articles/1774129?content_type=1){:target="_blank"}
+- [任正非：全球经济长期衰退，华为要把活下来作为主要纲领](https://mp.weixin.qq.com/s/aI_ROfrqAeyLr-NO6QynBA){:target="_blank"}
 
 #### 文学 && 哲学
 
@@ -170,8 +169,7 @@ Updated: 2022-7-30
 ##### 音乐
 
 - [姐姐弹唱《这世界有那么多人》](https://www.bilibili.com/video/BV1N44y117nV?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [【2020中国好声音】单依纯《Forever Young》
-](https://www.bilibili.com/video/BV1kK411P7z5?spm_id_from=333.337.search-card.all.click&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [【2020中国好声音】单依纯《Forever Young》](https://www.bilibili.com/video/BV1kK411P7z5?spm_id_from=333.337.search-card.all.click&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [【Krystian Zimerman】肖邦g小调第一叙事曲（1987）](https://www.bilibili.com/video/BV1Jx411N7og?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [cover｜路过人间-郁可唯](https://www.bilibili.com/video/BV1Zy4y1V74v?spm_id_from=333.999.0.0){:target="_blank"}
 - [全球播放破亿！华为感动世界的名曲《Dream It Possible》](https://www.bilibili.com/video/BV16b411T7JV?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
