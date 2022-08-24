@@ -123,10 +123,10 @@ Updated: 2022-7-30
 
 ##### Live && MV
 
+- [李健《父亲写的散文诗》打破亲情隔阂-《歌手2017》第8期 单曲The Singer【我是歌手官方频道】](https://www.youtube.com/watch?v=kVWYfY8pDGA){:target="_blank"}
 - [房东的猫《云烟成雨》不要音乐现场版](https://www.youtube.com/watch?v=iNT4Pvm2S60&list=LL&index=38){:target="_blank"}
 - [黃玠-下雨的晚上MV](https://www.youtube.com/watch?v=aR8BSYCvbvo&list=LL&index=33){:target="_blank"}
 - [杨宗纬《长镜头》 -《我是歌手》2015巅峰会单曲纯享](https://www.youtube.com/watch?v=nkWebzFPBgU&list=LL&index=47){:target="_blank"}
-- [毛不易 Mao Buyi《平凡的一天 Ordinary Day》](https://www.youtube.com/watch?v=BiiwclhI5Y8&list=LL&index=39){:target="_blank"}
 
 ##### 访谈
 
@@ -170,6 +170,8 @@ Updated: 2022-7-30
 ##### 音乐
 
 - [姐姐弹唱《这世界有那么多人》](https://www.bilibili.com/video/BV1N44y117nV?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [【2020中国好声音】单依纯《Forever Young》
+](https://www.bilibili.com/video/BV1kK411P7z5?spm_id_from=333.337.search-card.all.click&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [【Krystian Zimerman】肖邦g小调第一叙事曲（1987）](https://www.bilibili.com/video/BV1Jx411N7og?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [cover｜路过人间-郁可唯](https://www.bilibili.com/video/BV1Zy4y1V74v?spm_id_from=333.999.0.0){:target="_blank"}
 - [全球播放破亿！华为感动世界的名曲《Dream It Possible》](https://www.bilibili.com/video/BV16b411T7JV?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
