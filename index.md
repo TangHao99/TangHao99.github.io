@@ -13,4 +13,4 @@
 
 + [读书摘记](https://tanghao99.notion.site/7ecf8d81773248b6814bbea6c8dacf47){:target="_blank"}
 
-+ [经典收藏](/ClassicalCollection/index.md)
++ [经典收藏](/2_ClassicalCollection/index.md)
