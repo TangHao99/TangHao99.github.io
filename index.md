@@ -9,7 +9,7 @@
 
 ### 网站导航
 
-+ [经典收藏](/2_ClassicalCollection/index.md)
++ [经典收藏](2_ClassicalCollection/index.md)
 
 + [系统总结](https://tanghao99.notion.site/722389a49d7c480faae9a95427a65777){:target="_blank"}
 
