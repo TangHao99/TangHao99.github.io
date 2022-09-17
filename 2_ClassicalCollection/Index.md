@@ -25,6 +25,7 @@ Updated: 2022-7-30
         - [亲密关系](#亲密关系)
         - [个人成长](#个人成长-1)
         - [访谈](#访谈-1)
+        - [演讲](#演讲)
         - [社科](#社科)
         - [摄影](#摄影)
         - [音乐](#音乐)
@@ -144,7 +145,6 @@ Updated: 2022-7-30
 - [最痛快的活法，不是躺平，而是这样走出去](https://www.bilibili.com/video/BV13V411x7x5?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [为什么说「完美」是人性最深的压抑？](https://www.bilibili.com/video/BV16r4y1U7tZ?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [【4K修复】短尾矮袋鼠吃树叶·高清原声版](https://www.bilibili.com/video/BV1nT4y1r7Sb?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [首发TALK 李松蔚：5%的改变和95%的接纳](https://www.bilibili.com/video/BV1w34y1n7HP?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [当下不是永恒，让时间成为祝福【武志红】](https://www.bilibili.com/video/BV16X4y1u7q1?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 
 ##### 亲密关系
@@ -156,7 +156,6 @@ Updated: 2022-7-30
 ##### 个人成长
 
 - [复盘过去36年人生：最后悔这4件事，你别再踩这些坑了](https://www.bilibili.com/video/BV1mS4y1T7V3?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [痛--俞敏洪--一堆散落的砖头](https://www.bilibili.com/video/BV1Lt411C7xB?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [34岁中年up主的几个人生建议，比如别信人脉](https://www.bilibili.com/video/BV1iM4y1F79R?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [孙笑川痛批当代大学生](https://www.bilibili.com/video/BV1q4411M7R6?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [一位让罗老师感动的学生，值得我们学习](https://www.bilibili.com/video/BV1J7411V7gn?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
@@ -164,24 +163,29 @@ Updated: 2022-7-30
 ##### 访谈
 
 - [【罗翔X papi酱X LKs】聊聊自己。28岁的我只有一碗粉…【确实该聊聊】](https://www.bilibili.com/festival/talktalk?bvid=BV1Wd4y1Q7PT&spm_id_from=333.999.0.0){:target="_blank"}
-- [【完整两个半小时】【2005】浙大郑强教授 被127次掌声打断的演讲/中国强大的真正希望](https://www.bilibili.com/video/BV1NK4y1X72v?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- - [首发TALK 李松蔚：5%的改变和95%的接纳](https://www.bilibili.com/video/BV1w34y1n7HP?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [给20-30岁的女孩：女生开窍后的7个改变](https://www.bilibili.com/video/BV1uT41157dL?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [如何保持终身学习并从中受益？](https://www.bilibili.com/video/BV1sW4y1m7Hn?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+
+##### 演讲
+
+- [【呼兰小可爱】不是爱战斗，只是爱上头！](https://www.bilibili.com/video/BV1uV411a7gA?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- - [【完整两个半小时】【2005】浙大郑强教授 被127次掌声打断的演讲/中国强大的真正希望](https://www.bilibili.com/video/BV1NK4y1X72v?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [痛--俞敏洪--一堆散落的砖头](https://www.bilibili.com/video/BV1Lt411C7xB?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [俞敏洪北大光华学院劲爆演讲完整版](https://www.bilibili.com/video/BV18E411a7Xf?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 
 ##### 社科
 
 - [5G，华为，土耳其——我花了两个月，搞懂了5G背后的秘密](https://www.bilibili.com/video/BV1fq4y1g7hq?spm_id_from=444.42.list.card_archive.click&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [俞敏洪北大光华学院劲爆演讲完整版](https://www.bilibili.com/video/BV18E411a7Xf?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [我在湖大红楼前站了2个小时，和路过的陌生人一起拍了一张“特别的毕业照”](https://www.bilibili.com/video/BV1Q3411M7Pu?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [](){:target="_blank"}
 
 ##### 摄影
 
 - [【西湖画卷】：创作历时2年，记录你从未见过的西湖色彩和视角！](https://www.bilibili.com/video/BV1u94y1175Z?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [西湖.雪落下的声音](https://www.bilibili.com/video/BV1tP4y1P7oS?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- - [杭州/下茅家埠/二十四节气/谷雨/人间四月天/治愈系](https://www.bilibili.com/video/BV1Hu411k7HW?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [【4K HDR】京都·无尽夏 DJI RS 3 PRO](https://www.bilibili.com/video/BV1ya411s7w2?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [如何把女朋友的照片拍出电影感 shot on Canon EOS R6](https://www.bilibili.com/video/BV1bi4y1R7Bw?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [杭州/下茅家埠/二十四节气/谷雨/人间四月天/治愈系](https://www.bilibili.com/video/BV1Hu411k7HW?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [西湖.雪落下的声音](https://www.bilibili.com/video/BV1tP4y1P7oS?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 
 ##### 音乐
 
@@ -207,7 +211,6 @@ Updated: 2022-7-30
 ##### 其它
 
 - [【广告】理智与情感，Jeep](https://www.bilibili.com/video/BV1rx411w7Kk?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [【呼兰小可爱】不是爱战斗，只是爱上头！](https://www.bilibili.com/video/BV1uV411a7gA?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [让子弹飞 普通话](https://www.bilibili.com/bangumi/play/ep199612?theme=movie&spm_id_from=333.999.0.0){:target="_blank"}
 - [我毕业啦！](https://www.bilibili.com/video/BV1Yb4y1C7RK?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [这可能是B站最粉的程序员卧室 room tour](https://www.bilibili.com/video/BV1Y3411F7Y5?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
