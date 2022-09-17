@@ -163,7 +163,7 @@ Updated: 2022-09-17
 ##### 访谈
 
 - [【罗翔X papi酱X LKs】聊聊自己。28岁的我只有一碗粉…【确实该聊聊】](https://www.bilibili.com/festival/talktalk?bvid=BV1Wd4y1Q7PT&spm_id_from=333.999.0.0){:target="_blank"}
-- - [首发TALK 李松蔚：5%的改变和95%的接纳](https://www.bilibili.com/video/BV1w34y1n7HP?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [首发TALK 李松蔚：5%的改变和95%的接纳](https://www.bilibili.com/video/BV1w34y1n7HP?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [给20-30岁的女孩：女生开窍后的7个改变](https://www.bilibili.com/video/BV1uT41157dL?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [如何保持终身学习并从中受益？](https://www.bilibili.com/video/BV1sW4y1m7Hn?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 
