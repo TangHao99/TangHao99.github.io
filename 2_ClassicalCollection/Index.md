@@ -10,8 +10,8 @@ Updated: 2022-7-30
     - [**经典帖子**](#经典帖子)
       - [公众号《上梅林》](#公众号上梅林)
       - [IT领域](#it领域)
+      - [方法论](#方法论)
       - [文学 && 哲学](#文学--哲学)
-      - [鸡汤](#鸡汤)
       - [其它](#其它)
     - [**自制歌单**](#自制歌单)
     - [**优质视频**](#优质视频)
@@ -22,7 +22,9 @@ Updated: 2022-7-30
         - [访谈](#访谈)
       - [Bilibili](#bilibili)
         - [心理健康](#心理健康)
+        - [亲密关系](#亲密关系)
         - [个人成长](#个人成长-1)
+        - [访谈](#访谈-1)
         - [社科](#社科)
         - [摄影](#摄影)
         - [音乐](#音乐)
@@ -63,11 +65,13 @@ Updated: 2022-7-30
 - [美团12年，历久弥新，一路有你](https://mp.weixin.qq.com/s/nLuAuamw0_-wZcgNglNEEg){:target="_blank"}
 - [任正非：全球经济长期衰退，华为要把活下来作为主要纲领](https://mp.weixin.qq.com/s/aI_ROfrqAeyLr-NO6QynBA){:target="_blank"}
 
+#### 方法论
+
+- [请停下「计数器」思维](https://mp.weixin.qq.com/s/8aD9zJ8u1OzLmSfvdVSpnA){:target="_blank"}
+- [每周只需4小时，就能摆平一切工作？10个关键原则](https://mp.weixin.qq.com/s/gYI2CcQgJV1mR-JUtPC2bg){:target="_blank"}
+- [令我受益颇多的9个微习惯](https://mp.weixin.qq.com/s/8kjicoavKlQ1aHv0bXo_Cw){:target="_blank"}
+
 #### 文学 && 哲学
-
-- 
-
-#### 鸡汤
 
 - 
 
@@ -112,7 +116,7 @@ Updated: 2022-7-30
 - [The Beautiful Blue Danube](https://www.youtube.com/watch?v=JmxrMBuCsoI&list=LL&index=16&t=397s){:target="_blank"}
 - [巴哈. 貝多芬. 舒曼古典音樂 ❤ 讀書&工作培養氣質音樂](https://www.youtube.com/watch?v=roDf5S2bYkY&list=LL&index=8&t=1647s){:target="_blank"}
 - [古典音樂 - 蕭邦&李斯特&貝多芬&莫札特&浪漫鋼琴美麗樂章～ 讀書＆工作最佳音樂](https://www.youtube.com/watch?v=97-lNM37bko&list=LL&index=2&t=1591s){:target="_blank"}
-
+- [[HD無廣告版] 2小時最愛古典音樂合集 / 莫札特x李斯特x蕭邦 - 2 HOURS THE BEST CLASSICAL - MOZART . LISZT . CHOPIN](https://www.youtube.com/watch?v=Tx2WNUBbk4I){:target="_blank"}
 
 ##### 个人成长
 
@@ -138,26 +142,38 @@ Updated: 2022-7-30
 ##### 心理健康
 
 - [最痛快的活法，不是躺平，而是这样走出去](https://www.bilibili.com/video/BV13V411x7x5?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [一个人要真正成熟，得先学会让父母“难受”](https://www.bilibili.com/video/BV1jL4y1E7Z4?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [为什么说「完美」是人性最深的压抑？](https://www.bilibili.com/video/BV16r4y1U7tZ?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [【4K修复】短尾矮袋鼠吃树叶·高清原声版](https://www.bilibili.com/video/BV1nT4y1r7Sb?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [首发TALK 李松蔚：5%的改变和95%的接纳](https://www.bilibili.com/video/BV1w34y1n7HP?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [当下不是永恒，让时间成为祝福【武志红】](https://www.bilibili.com/video/BV16X4y1u7q1?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+
+##### 亲密关系
+
+- [一个人要真正成熟，得先学会让父母“难受”](https://www.bilibili.com/video/BV1jL4y1E7Z4?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [对我影响最大的一本书，是如何让我变得更好？【武志红】](https://www.bilibili.com/video/BV1pL4y1q7Vi?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [宣布一下，我有那个陪我一起吃火锅的人了！](https://www.bilibili.com/video/BV1uJ411C7oB?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 
 ##### 个人成长
 
 - [复盘过去36年人生：最后悔这4件事，你别再踩这些坑了](https://www.bilibili.com/video/BV1mS4y1T7V3?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [痛--俞敏洪--一堆散落的砖头](https://www.bilibili.com/video/BV1Lt411C7xB?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [34岁中年up主的几个人生建议，比如别信人脉](https://www.bilibili.com/video/BV1iM4y1F79R?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [给20-30岁的女孩：女生开窍后的7个改变](https://www.bilibili.com/video/BV1uT41157dL?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [孙笑川痛批当代大学生](https://www.bilibili.com/video/BV1q4411M7R6?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [如何保持终身学习并从中受益？](https://www.bilibili.com/video/BV1sW4y1m7Hn?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [一位让罗老师感动的学生，值得我们学习](https://www.bilibili.com/video/BV1J7411V7gn?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+
+##### 访谈
+
+- [【罗翔X papi酱X LKs】聊聊自己。28岁的我只有一碗粉…【确实该聊聊】](https://www.bilibili.com/festival/talktalk?bvid=BV1Wd4y1Q7PT&spm_id_from=333.999.0.0){:target="_blank"}
+- [【完整两个半小时】【2005】浙大郑强教授 被127次掌声打断的演讲/中国强大的真正希望](https://www.bilibili.com/video/BV1NK4y1X72v?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [给20-30岁的女孩：女生开窍后的7个改变](https://www.bilibili.com/video/BV1uT41157dL?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [如何保持终身学习并从中受益？](https://www.bilibili.com/video/BV1sW4y1m7Hn?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 
 ##### 社科
 
 - [5G，华为，土耳其——我花了两个月，搞懂了5G背后的秘密](https://www.bilibili.com/video/BV1fq4y1g7hq?spm_id_from=444.42.list.card_archive.click&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [俞敏洪北大光华学院劲爆演讲完整版](https://www.bilibili.com/video/BV18E411a7Xf?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [我在湖大红楼前站了2个小时，和路过的陌生人一起拍了一张“特别的毕业照”](https://www.bilibili.com/video/BV1Q3411M7Pu?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [](){:target="_blank"}
 
 ##### 摄影
 
@@ -165,6 +181,7 @@ Updated: 2022-7-30
 - [西湖.雪落下的声音](https://www.bilibili.com/video/BV1tP4y1P7oS?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [【4K HDR】京都·无尽夏 DJI RS 3 PRO](https://www.bilibili.com/video/BV1ya411s7w2?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [如何把女朋友的照片拍出电影感 shot on Canon EOS R6](https://www.bilibili.com/video/BV1bi4y1R7Bw?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [杭州/下茅家埠/二十四节气/谷雨/人间四月天/治愈系](https://www.bilibili.com/video/BV1Hu411k7HW?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 
 ##### 音乐
 
@@ -185,12 +202,14 @@ Updated: 2022-7-30
 
 - [千金做一颗白菜，挑战顶级国宴巅峰之作。](https://www.bilibili.com/video/BV1dX4y1A7cY?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [重金求来“猪袜子米线”秘方，这不把人香迷糊了？](https://www.bilibili.com/video/BV1Xa411K7nf?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [花24小时，复刻宫廷名菜灯影牛肉，薄如宣纸又透光。](https://www.bilibili.com/video/BV1Xh411h7EL?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 
 ##### 其它
 
 - [【广告】理智与情感，Jeep](https://www.bilibili.com/video/BV1rx411w7Kk?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
-- [我毕业啦！](https://www.bilibili.com/video/BV1Yb4y1C7RK?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
+- [【呼兰小可爱】不是爱战斗，只是爱上头！](https://www.bilibili.com/video/BV1uV411a7gA?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [让子弹飞 普通话](https://www.bilibili.com/bangumi/play/ep199612?theme=movie&spm_id_from=333.999.0.0){:target="_blank"}
+- [我毕业啦！](https://www.bilibili.com/video/BV1Yb4y1C7RK?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 - [这可能是B站最粉的程序员卧室 room tour](https://www.bilibili.com/video/BV1Y3411F7Y5?spm_id_from=333.999.0.0&vd_source=c5c102043171c0216c2b15710ab6266e){:target="_blank"}
 
 ---
