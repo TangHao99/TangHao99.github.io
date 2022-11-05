@@ -109,17 +109,17 @@ Updated: 2022-09-17
 - [Deep Focus 音乐以提高注意力 - 12 小时的环境学习音乐以集中注意力 #220](https://www.youtube.com/watch?v=luImsWaNLAY){:target="_blank"}
 - [[HD無廣告版] 鋼琴&大提琴浪漫古典音樂合集 - Piano & Cello Romantic Classical Music](https://www.youtube.com/watch?v=BQf1y1pkaeQ){:target="_blank"}
 - [Beethoven - Piano Sonata No.15 in D major, Op. 28, “Pastoral” 貝多芬 D大調第15號 鋼琴奏鳴曲 田園 古典音樂classical](https://www.youtube.com/watch?v=dHCbAp6-36g){:target="_blank"}
-<!-- - [[無廣告版] 讓人心情平靜古典音樂合集 - Calm & Peaceful Classical Music](https://www.youtube.com/watch?v=USOBb1r-7sk){:target="_blank"}
-- [[無廣告版] 令人放鬆的古典音樂合集 - 蕭邦 . 德布西 . 巴哈 . 貝多芬 - Relax Classical Music -Chopin . Debussy . Bach](https://www.youtube.com/watch?v=M_rNY2G-C8Y&t=29s){:target="_blank"}
-- [[HD無廣告版] 2小時鋼琴&大提琴浪漫古典音樂合集 - Piano & Cello Romantic Classical Music](https://www.youtube.com/watch?v=ePwrp9WtkWQ){:target="_blank"}
-- [(一小時版本) 蕭邦 -華爾茲 A小調圆舞曲 B.150 - Chopin Waltz in A minor B.150](https://www.youtube.com/watch?v=QSZCAgykHGw){:target="_blank"}
-- [浪漫抒情古典音樂合集 - 舒曼. 孟德爾頌. 巴哈. 蕭邦](https://www.youtube.com/watch?v=cX3Bi1TPXkM&list=LL&index=9&t=2228s){:target="_blank"}
-- [最愛古典音樂 /莫札特 x 蕭邦 x 貝多芬 x 韋瓦第 x 巴哈](https://www.youtube.com/watch?v=AM7ks920nto&list=LL&index=5&t=2609s){:target="_blank"}
-- [100分鐘耳熟能詳的古典音樂 /貝多芬x 柴可夫斯基x蕭邦](https://www.youtube.com/watch?v=OsOHJnI2xeg&list=LL&index=4&t=29s){:target="_blank"}
-- [The Beautiful Blue Danube](https://www.youtube.com/watch?v=JmxrMBuCsoI&list=LL&index=16&t=397s){:target="_blank"}
-- [巴哈. 貝多芬. 舒曼古典音樂 ❤ 讀書&工作培養氣質音樂](https://www.youtube.com/watch?v=roDf5S2bYkY&list=LL&index=8&t=1647s){:target="_blank"}
-- [古典音樂 - 蕭邦&李斯特&貝多芬&莫札特&浪漫鋼琴美麗樂章～ 讀書＆工作最佳音樂](https://www.youtube.com/watch?v=97-lNM37bko&list=LL&index=2&t=1591s){:target="_blank"}
-- [[HD無廣告版] 2小時最愛古典音樂合集 / 莫札特x李斯特x蕭邦 - 2 HOURS THE BEST CLASSICAL - MOZART . LISZT . CHOPIN](https://www.youtube.com/watch?v=Tx2WNUBbk4I){:target="_blank"} -->
+<!-- - [[無廣告版] 讓人心情平靜古典音樂合集 - Calm & Peaceful Classical Music](https://www.youtube.com/watch?v=USOBb1r-7sk){:target="_blank"} -->
+<!-- - [[無廣告版] 令人放鬆的古典音樂合集 - 蕭邦 . 德布西 . 巴哈 . 貝多芬 - Relax Classical Music -Chopin . Debussy . Bach](https://www.youtube.com/watch?v=M_rNY2G-C8Y&t=29s){:target="_blank"} -->
+<!-- - [[HD無廣告版] 2小時鋼琴&大提琴浪漫古典音樂合集 - Piano & Cello Romantic Classical Music](https://www.youtube.com/watch?v=ePwrp9WtkWQ){:target="_blank"} -->
+<!-- - [(一小時版本) 蕭邦 -華爾茲 A小調圆舞曲 B.150 - Chopin Waltz in A minor B.150](https://www.youtube.com/watch?v=QSZCAgykHGw){:target="_blank"} -->
+<!-- - [浪漫抒情古典音樂合集 - 舒曼. 孟德爾頌. 巴哈. 蕭邦](https://www.youtube.com/watch?v=cX3Bi1TPXkM&list=LL&index=9&t=2228s){:target="_blank"} -->
+<!-- - [最愛古典音樂 /莫札特 x 蕭邦 x 貝多芬 x 韋瓦第 x 巴哈](https://www.youtube.com/watch?v=AM7ks920nto&list=LL&index=5&t=2609s){:target="_blank"} -->
+<!-- - [100分鐘耳熟能詳的古典音樂 /貝多芬x 柴可夫斯基x蕭邦](https://www.youtube.com/watch?v=OsOHJnI2xeg&list=LL&index=4&t=29s){:target="_blank"} -->
+<!-- - [The Beautiful Blue Danube](https://www.youtube.com/watch?v=JmxrMBuCsoI&list=LL&index=16&t=397s){:target="_blank"} -->
+<!-- - [巴哈. 貝多芬. 舒曼古典音樂 ❤ 讀書&工作培養氣質音樂](https://www.youtube.com/watch?v=roDf5S2bYkY&list=LL&index=8&t=1647s){:target="_blank"} -->
+<!-- - [古典音樂 - 蕭邦&李斯特&貝多芬&莫札特&浪漫鋼琴美麗樂章～ 讀書＆工作最佳音樂](https://www.youtube.com/watch?v=97-lNM37bko&list=LL&index=2&t=1591s){:target="_blank"} -->
+<!-- - [[HD無廣告版] 2小時最愛古典音樂合集 / 莫札特x李斯特x蕭邦 - 2 HOURS THE BEST CLASSICAL - MOZART . LISZT . CHOPIN](https://www.youtube.com/watch?v=Tx2WNUBbk4I){:target="_blank"} -->
 
 ##### 1.2. 个人成长
 
