@@ -1,9 +1,9 @@
 # 欢迎来到唐浩的主页
 
 ### 个人信息
-<img src="photo.jpg" height="20%" width="20%"> 
+<!-- <img src="photo.jpg" height="20%" width="20%"> 
 
-[LinkedIn](https://www.linkedin.cn/incareer/in/%E6%B5%A9-hao-tang-%E5%94%90-3853811b3){:target="_blank"} [GitHub](https://github.com/TangHao99){:target="_blank"}
+[LinkedIn](https://www.linkedin.cn/incareer/in/%E6%B5%A9-hao-tang-%E5%94%90-3853811b3){:target="_blank"} [GitHub](https://github.com/TangHao99){:target="_blank"} -->
 
 ---
 
