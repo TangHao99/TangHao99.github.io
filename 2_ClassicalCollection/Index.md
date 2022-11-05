@@ -231,10 +231,10 @@ Updated: 2022-09-17
 
 ##### 3.1. 一年一度喜剧大赛第1季
 
-- [胖达人2《进化论》 大猩猩被苹果砸中觉醒了数理化](https://www.iqiyi.com/v_1hlt1pnaqjw.html)
-- [大宇治水《偶像服务生》 资深练习生秀才艺应聘](https://www.iqiyi.com/v_1svgp0puh58.html)
-- [宗俊涛杨雨光强咚咚《分身》 直男失恋大型精分现场](https://www.iqiyi.com/v_1gpns7krpsc.html)
-- [娜娜和猪翼《好闺蜜》 当代社恐相亲实录](https://www.iqiyi.com/v_21fcw7nonxc.html)
+- [胖达人2《进化论》 大猩猩被苹果砸中觉醒了数理化](https://www.iqiyi.com/v_1hlt1pnaqjw.html){:target="_blank"}
+- [大宇治水《偶像服务生》 资深练习生秀才艺应聘](https://www.iqiyi.com/v_1svgp0puh58.html){:target="_blank"}
+- [宗俊涛杨雨光强咚咚《分身》 直男失恋大型精分现场](https://www.iqiyi.com/v_1gpns7krpsc.html){:target="_blank"}
+- [娜娜和猪翼《好闺蜜》 当代社恐相亲实录](https://www.iqiyi.com/v_21fcw7nonxc.html){:target="_blank"}
 
 ---
 
