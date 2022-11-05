@@ -88,7 +88,7 @@ Updated: 2022-09-17
 - [车载歌单（一）](https://y.qq.com/n/ryqq/playlist/8523484944){:target="_blank"}
 - [车载歌单（二）](https://y.qq.com/n/ryqq/playlist/8560800135){:target="_blank"}
 - [平静歌单（一）](https://y.qq.com/n/ryqq/playlist/8526261487){:target="_blank"}
-- [Top100（2022.8）](https://y.qq.com/n/ryqq/playlist/8583705023){:target="_blank"}
+- [Top100（2022.11）](https://y.qq.com/n/ryqq/playlist/8583705023){:target="_blank"}
 
 ---
 
