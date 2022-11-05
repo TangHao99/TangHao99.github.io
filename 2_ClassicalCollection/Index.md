@@ -240,7 +240,6 @@ Updated: 2022-09-17
 
 ### **五、经典电视剧**
 - [白夜追凶](TVSeries/白夜追凶.jpg){:target="_blank"}
-- [白夜追凶(2)](TVSeries/白夜追凶(2).jpg){:target="_blank"}
 - [我们与恶的距离](TVSeries/我们与恶的距离.jpg){:target="_blank"}
 - [扫黑风暴](TVSeries/扫黑风暴.jpg){:target="_blank"}
 
